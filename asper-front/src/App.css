@@ -1,0 +1,57 @@
+/* 
+Root color palette
+https://coolors.co/73683b-fa9f42-583e23-13262f-e9e6ff 
+*/
+:root {
+  --bg-color-main: #FA9F42;
+  --bg-color-alt: #583E23;
+  --font-color: #231f1f;
+  --font-color-alt: #e2e2e2;
+}
+
+body {
+  font-family: 'DM Serif Display', serif !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: var(--bg-color-alt);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: var(--font-color-alt);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
