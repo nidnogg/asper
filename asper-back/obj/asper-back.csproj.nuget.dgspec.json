@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl$\\Debian\\home\\nidnogg\\localdev\\asper\\asper-back\\asper-back.csproj": {}
+    "D:\\localdev\\asper\\asper-back\\asper-back.csproj": {}
   },
   "projects": {
-    "\\\\wsl$\\Debian\\home\\nidnogg\\localdev\\asper\\asper-back\\asper-back.csproj": {
+    "D:\\localdev\\asper\\asper-back\\asper-back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl$\\Debian\\home\\nidnogg\\localdev\\asper\\asper-back\\asper-back.csproj",
+        "projectUniqueName": "D:\\localdev\\asper\\asper-back\\asper-back.csproj",
         "projectName": "asper-back",
-        "projectPath": "\\\\wsl$\\Debian\\home\\nidnogg\\localdev\\asper\\asper-back\\asper-back.csproj",
+        "projectPath": "D:\\localdev\\asper\\asper-back\\asper-back.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl$\\Debian\\home\\nidnogg\\localdev\\asper\\asper-back\\obj\\",
+        "outputPath": "D:\\localdev\\asper\\asper-back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config"
