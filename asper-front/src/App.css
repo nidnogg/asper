@@ -55,3 +55,9 @@ body {
 button {
   font-size: calc(10px + 2vmin);
 }
+
+table {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.7em;
+
+}

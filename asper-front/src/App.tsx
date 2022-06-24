@@ -1,4 +1,5 @@
 import './App.css'
+import Users from './Users'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
         <p>
           Data do be displayed here
         </p>      
+        <Users />
       </header>
     </div>
   )
